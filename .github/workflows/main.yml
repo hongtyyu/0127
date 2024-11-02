@@ -1,4 +1,4 @@
-name: sixtt
+name: sixtt11
 on:
   schedule:
     - cron: '*/57 * * * *' # Run every day at midnight
